@@ -1,0 +1,9 @@
+void main() {
+  print("Huzaifa bin Tamseel");
+ int lenght = 5;
+  print("lenght = $lenght");
+ int breadth = 7;
+  print("breadth is $breadth");
+  
+  print("area of rectangle is ${lenght * breadth}");
+}

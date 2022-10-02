@@ -1,0 +1,17 @@
+void main() {
+ print("Huzaifa Bin Tamseel");
+  print("Question # 4");
+ print ("Name of Student is Robert");
+  int num1 = 78;
+    int num2 = 45;
+    int num3 = 62;
+  int num4 = num1 + num2 + num3;
+  int num5 = 100;
+  int num6 = 300;
+  var num7 = num4 * num5 / num6;
+  print ("marks of English is $num1");
+  print ("marks of Urdu is $num2");
+  print ("marks of Maths is $num3");
+  print ("Totals marks $num4");
+  print ("percentage of Robert is $num7%");
+}
